@@ -1,4 +1,4 @@
-# Cypress login test
+# cypress-login
 
 Cypress login test
 

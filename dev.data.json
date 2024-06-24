@@ -1,0 +1,8 @@
+{
+  "env": {
+    "USER_A": {
+      "USERNAME": "username Dev",
+      "PASSWORD": "passwordDev"
+    }
+  }
+}
